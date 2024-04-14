@@ -1,5 +1,22 @@
 # System Design
+### Table of Contents
 
+1. [Definition](#definition)
+2. [How To: System Design?](#how-to-system-design)
+3. [Distributed System](#distributed-system)
+4. [Performance v/s Scalability](#performance-vs-scalability)
+5. [Latency vs Throughput](#latency-vs-throughput)
+6. [Availability vs Consistency](#availability-vs-consistency)
+7. [Content Delivery Network](#content-delivery-network)
+8. [Domain Name System (DNS)](#domain-name-system-dns)
+9. [Proxy Servers](#proxy-servers)
+10. [Load Balancers](#load-balancers)
+11. [Horizontal Scaling](#horizontal-scaling)
+12. [Database](#database)
+13. [Microservices](#microservices)
+14. [Caching](#caching)
+15. [Asynchronism](#asynchronism)
+16. [Performance Antipatterns](#performance-antipatterns)
 # Definition
 
 **System design is the thoughtful and detailed planning process in computer science and engineering, akin to meticulously crafting a blueprint before building a treehouse. It involves determining the overall structure (architectural design), where data will be stored and accessed (data design), how different parts will interact (interface design), defining step-by-step processes (procedural design), and ensuring security measures (security design).**
